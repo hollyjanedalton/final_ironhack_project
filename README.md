@@ -6,28 +6,29 @@
 
 [Click to view presentation slides](https://slides.com/hollydalton/deck-5b0977/fullscreen)
 
+[Click to view Kaggle dataset](https://www.kaggle.com/datasets/kukuroo3/starbucks-locations-worldwide-2021-version)
+
 ### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
 1. Geographically, how are Starbucks locations spread across the world?
 2. Where does the earliest Starbucks location open, and at what time?
 3. Where are the 2 Starbucks locations that are closest to each other and how close are they to each other?
 
 
-#### Data: The data set consists of 14 demographic features on 18,000 current bank customers:
-storeNumber	countryCode	ownershipTypeCode	schedule	slug	latitude	longitude	streetAddressLine1	streetAddressLine2	streetAddressLine3	city	countrySubdivisionCode	postalCode	currentTimeOffset	windowsTimeZoneId	olsonTimeZoneId
-
+#### Data: The data set consists of 16 location features on over 28,000 Starbucks Location:
 
 - Store Number: A sequential number assigned to each store.
 - Country Code: 2-letter code indicating in which country the store is located 
-- Ownership type: The type of reward program offered for the card.
-- Hours of operation: Letter or postcard.
-- Slug: Low, Medium or High.
-- Latitude: How many non-credit-card accounts are held by the customer.
-- Street address line 1: Does the customer have overdraft protection on their checking account(s) (Yes or No).
-- Street address line 2: Low, Medium or High.
-- Street address line 3: The number of credit cards held at the bank.
-- City: The number of homes owned by the customer.
-- Country subdivision code: Number of individuals in the family.
-- Postal Code: Does the customer own their home? (Yes or No).
-- Current time offset: Average account balance (across all accounts over time). Q1, Q2, Q3 and Q4
-- Windows timezone ID: Average balance for each quarter in the last year
-- Olson timezone ID: 
+- Ownership type: Company owned, Licensed, Joint Venture or Franchise
+- Schedule: Hours of operation of the store
+- Slug: A unique identifying part of the store locator web address, from the end of the URL.
+- Latitude: Exact latitude up to 6 decimal points of the store
+- Longitude: Exact longitude up to 6 decimal points of the store
+- Street address line 1: First part of street address
+- Street address line 2: Second part of street address
+- Street address line 3: Third part of street address (if any)
+- City: The city in which the Starbucks store is located
+- Country subdivision code: 2-digit or 2-letter code to identify subdivision within country
+- Postal Code: 5-10 digit postal code for location of store
+- Current time offset: +/- 3-digit number of timezone of store in relation to Greenwich mean time 
+- Windows timezone ID: Identifies time zone for Windows 
+- Olson timezone ID: Timezone ID in relation Greenwich Mean Time 
