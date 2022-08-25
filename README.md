@@ -12,7 +12,7 @@
 
 
 ### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
-1. Geographically, how are Starbucks locations spread across the world?
+1. Using population/location data, how are Starbucks locations spread across the world?
 2. Where does the earliest Starbucks location open, and at what time?
 3. Where are the 2 Starbucks locations that are closest to each other and how close are they to each other?
 
