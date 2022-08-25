@@ -8,6 +8,9 @@
 
 [Click to view Kaggle dataset](https://www.kaggle.com/datasets/kukuroo3/starbucks-locations-worldwide-2021-version)
 
+[World population view](https://worldpopulationreview.com/countries))
+
+
 ### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
 1. Geographically, how are Starbucks locations spread across the world?
 2. Where does the earliest Starbucks location open, and at what time?
@@ -32,3 +35,11 @@
 - Current time offset: +/- 3-digit number of timezone of store in relation to Greenwich mean time 
 - Windows timezone ID: Identifies time zone for Windows 
 - Olson timezone ID: Timezone ID in relation Greenwich Mean Time 
+
+#### I later web scraped and added to the data
+- 2021 Country population
+- Country area
+- Country population density (km²)
+- Count of Starbucks stores by country
+- Starbucks store density (km²)
+- Starbucks per capita
