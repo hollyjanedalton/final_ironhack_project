@@ -47,7 +47,7 @@
 #### Process
 1. Imported Starbucks dataframe from Kaggle to python and completed exploratory data analysis
 2. Data cleaning: 
-      - Handle NaNs, duplicates and empty cells, 
+      - Handle NaNs, duplicates and empty cells, outliers
       - Standardize features names
       - Regex to reformat opening hours into readable form 
       - Decide which columns/rows to drop
@@ -60,3 +60,12 @@
       - Number of Starbucks
       - Starbucks per capita
       - Starbucks density
+5. Build function to compare Latitude and Longitude of every Starbucks to find the 2 that are closet to each other
+6. Fill 18% NaNs in the "Hours of Operation" column: 
+    - Use the "Hours of Operation" of the  literal "nearest neighbor" found with the #5 Function
+7. Data Visualizations in Tableau
+     - Map of Starbucks stores that open the earliest
+     - Bar graph of countries with most Starbucks (top 15)
+     - Bar graph of Starbucks per capita
+     - Map of world showing country with most Starbucks per area (density)
+     - Map of world showing country with 2 Starbucks that are closest to each other (using Lat/Long)
