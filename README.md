@@ -48,7 +48,7 @@
 - Starbucks per capita
 
 #### Process
-1. Find and import Starbucks dataset from Kaggle to python and completed exploratory data analysis
+1. Find and import Starbucks dataset from Kaggle to python and complete exploratory data analysis
 2. Data cleaning: 
       - Handle NaNs, duplicates and empty cells, outliers
       - Standardize features names
@@ -56,13 +56,6 @@
       - Decide which columns/rows to drop
 3. Web scrape population data from https://worldpopulationreview.com
 4. Create new dataset with population and Starbucks data and clean the dataset
-      - Country
-      - Population 2021
-      - Area
-      - Population density
-      - Number of Starbucks
-      - Starbucks per capita
-      - Starbucks density
 5. Build function to compare Latitude and Longitude of every Starbucks to find the 2 that are closet to each other
 6. Fill 18% NaNs in the "Hours of Operation" column: 
     - Use the "Hours of Operation" of the  literal "nearest neighbor" found with the #5 Function
