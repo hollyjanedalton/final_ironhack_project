@@ -19,22 +19,22 @@
 
 #### Data: 16 location features of over 28,000 Starbucks Locations:
 
-- Store Number: A sequential number assigned to each store.
-- Country Code: 2-letter code indicating in which country the store is located 
-- Ownership type: Company owned, Licensed, Joint Venture or Franchise
-- Schedule: Hours of operation of the store
-- Slug: A unique identifying part of the store locator web address, from the end of the URL.
-- Latitude: Exact latitude up to 6 decimal points of the store
-- Longitude: Exact longitude up to 6 decimal points of the store
-- Street address line 1: First part of street address
-- Street address line 2: Second part of street address
-- Street address line 3: Third part of street address (if any)
-- City: The city in which the Starbucks store is located
-- Country subdivision code: 2-digit or 2-letter code to identify subdivision within country
-- Postal Code: 5-10 digit postal code for location of store
-- Current time offset: +/- 3-digit number of timezone of store in relation to Greenwich mean time 
-- Windows timezone ID: Identifies time zone for Windows 
-- Olson timezone ID: Timezone ID in relation Greenwich Mean Time 
+- **Store Number**: A sequential number assigned to each store.
+- **Country Code**: 2-letter code indicating in which country the store is located 
+- **Ownership type**: Company owned, Licensed, Joint Venture or Franchise
+- **Schedule**: Hours of operation of the store
+- **Slug**: A unique identifying part of the store locator web address, from the end of the URL.
+- **Latitude**: Exact latitude up to 6 decimal points of the store
+- **Longitude**: Exact longitude up to 6 decimal points of the store
+- **Street address line 1**: First part of street address
+- **Street address line 2**: Second part of street address
+- **Street address line 3**: Third part of street address (if any)
+- **City**: The city in which the Starbucks store is located
+- **Country subdivision code**: 2-digit or 2-letter code to identify subdivision within country
+- **Postal Code**: 5-10 digit postal code for location of store
+- **Current time offset**: +/- 3-digit number of timezone of store in relation to Greenwich mean time 
+- **Windows timezone ID**: Identifies time zone for Windows 
+- **Olson timezone ID**: Timezone ID in relation Greenwich Mean Time 
 
 #### I later web scraped and added to the data:
 - 2021 Country population
