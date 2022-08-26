@@ -43,3 +43,20 @@
 - Count of Starbucks stores by country
 - Starbucks store density (km²)
 - Starbucks per capita
+
+#### Process
+1. Imported Starbucks dataframe from Kaggle to python and completed exploratory data analysis
+2. Data cleaning: 
+      - Handle NaNs, duplicates and empty cells, 
+      - Standardize features names
+      - Regex to reformat opening hours into readable form 
+      - Decide which columns/rows to drop
+3. Web scrape population data from https://worldpopulationreview.com
+4. Create new database with population and Starbucks data 
+      - Country
+      - Population 2021
+      - Area
+      - Population density
+      - Number of Starbucks
+      - Starbucks per capita
+      - Starbucks density
