@@ -45,14 +45,14 @@
 - Starbucks per capita
 
 #### Process
-1. Imported Starbucks dataframe from Kaggle to python and completed exploratory data analysis
+1. Find and import Starbucks dataset from Kaggle to python and completed exploratory data analysis
 2. Data cleaning: 
       - Handle NaNs, duplicates and empty cells, outliers
       - Standardize features names
       - Regex to reformat opening hours into readable form 
       - Decide which columns/rows to drop
 3. Web scrape population data from https://worldpopulationreview.com
-4. Create new database with population and Starbucks data 
+4. Create new dataset with population and Starbucks data and clean the dataset
       - Country
       - Population 2021
       - Area
@@ -65,7 +65,9 @@
     - Use the "Hours of Operation" of the  literal "nearest neighbor" found with the #5 Function
 7. Data Visualizations in Tableau
      - Map of Starbucks stores that open the earliest
-     - Bar graph of countries with most Starbucks (top 15)
-     - Bar graph of Starbucks per capita
+     - Bar chart of countries with most Starbucks (top 15)
+     - Bar chart of Starbucks per capita
      - Map of world showing country with most Starbucks per area (density)
      - Map of world showing country with 2 Starbucks that are closest to each other (using Lat/Long)
+8. Prepare presentation on slides.com with results 
+9. 9-minute presentation with discussion afterwards with 20+ Ironhack colleagues 
