@@ -56,7 +56,7 @@
       - Decide which columns/rows to drop
 3. Web scrape population data from https://worldpopulationreview.com
 4. Create new dataset with population and Starbucks data and clean the dataset
-5. Build function to compare Latitude and Longitude of every Starbucks to find the 2 that are closet to each other
+5. Build function to compare Latitude and Longitude of every Starbucks to find the 2 that are closest to each other
 6. Fill 18% NaNs in the "Hours of Operation" column: 
     - Use the "Hours of Operation" of the  literal "nearest neighbor" found with the #5 Function
 7. Data Visualizations in Tableau
