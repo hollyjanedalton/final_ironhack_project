@@ -13,10 +13,10 @@
 
 ### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
 1. How has Starbucks expanded overseas?
-      - What country has the highest number of Starbucks stores per capita?
-      - What country has the highest number of Starbucks stores, by area?
+      - What are the top countries with the highest number of Starbucks stores, per capita?
+      - What are the top countries with highest density of Starbucks stores, by area?
       - What are the top 15 countries with the most Starbucks stores?
-2. Where does the earliest Starbucks location open, and at what time?
+2. Where in the world do the earliest Starbucks locations open, and at what time?
 3. What two Starbucks locations are the closest in proximity to one another?
 
 
