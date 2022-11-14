@@ -28,10 +28,8 @@
 - **Country** 
 - **City**
 - **Ownership type**: Company owned, Licensed, Joint Venture or Franchise
-- **Schedule**: Hours of operation of the store
-- **Latitude**: Exact latitude up to 6 decimal points of the store
-- **Longitude**: Exact longitude up to 6 decimal points of the store
-
+- **Hours of operation of the store** 
+- **Latitude and Longitude**: Exact latitude up to 6 decimal points of the store
 
 #### I later web scraped and added to the data:
 - 2021 Country population
