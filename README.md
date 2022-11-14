@@ -21,6 +21,8 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 2. Where in the world do the earliest Starbucks locations open, and at what time?
 3. Where in the world are the two Starbucks locations closest in proximity to one another?
 
+---
+
 #### Data: 16 location features of over 28,000 Starbucks Locations
 ##### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
