@@ -1,24 +1,22 @@
-# Analysis of Starbucks Locations 
-
-## Mapping Starbucks locations with latitude/longitude and population data
+# Mapping Starbucks locations with country population data
 
 [Click for 9-minute recording of final presentation](https://ironhack.zoom.us/rec/play/z_KuzP88l79dzVBAtHaR-vPE4Xi4xUGUU-C3D948G81Z7jHR7GCBa8oip2yDNDrNwbnBrP9AWwVZ6sM9.WElypAcnuo2-6udI?startTime=1660305720000&_x_zm_rtaid=v-1r2qOaSt-VQG_GldUWIA.1660487182977.ee234b4949979eb90f4b2d2092f0085f&_x_zm_rhtaid=21)
 
-[Click to view presentation slides](https://slides.com/hollydalton/deck-5b0977/fullscreen)
+[Click for presentation slides](https://slides.com/hollydalton/deck-5b0977/fullscreen)
 
-[Click to view Kaggle dataset](https://www.kaggle.com/datasets/kukuroo3/starbucks-locations-worldwide-2021-version)
+[Click for Kaggle dataset](https://www.kaggle.com/datasets/kukuroo3/starbucks-locations-worldwide-2021-version)
 
 [Click for World population data](https://worldpopulationreview.com/countries)
 
 
 ### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
+
 1. How has Starbucks expanded overseas?
-      - What are the top countries with the highest number of Starbucks stores, per capita?
-      - What are the top countries with highest density of Starbucks stores, by area?
       - What are the top 15 countries with the most Starbucks stores?
+      - What are the top countries with the most Starbucks stores, per capita?
+      - What are the top countries with highest density of Starbucks stores, by area?
 2. Where in the world do the earliest Starbucks locations open, and at what time?
 3. What two Starbucks locations are the closest in proximity to one another?
-
 
 #### Data: 16 location features of over 28,000 Starbucks Locations
 ##### Here's a quick look at the uncleaned dataset 
