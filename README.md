@@ -36,6 +36,8 @@ In the map below, green dots represent stores that open at 3:30 AM.
 Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 80 meters apart, or less than a 2-minute walk! 
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/two_closest_cafes.png)
 
+---
+
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
@@ -53,6 +55,7 @@ Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 8
 - Country population density (km²)
 
 ---
+
 ### Process
 1. Import Starbucks dataset from Kaggle to python and complete exploratory data analysis
 2. Data cleaning: 
