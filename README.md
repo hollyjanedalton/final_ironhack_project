@@ -11,7 +11,8 @@
 
 ---
 
-### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
+### Inspiration: Geospatial Analysis is on the rise! 
+Businesses are utilizing data-driven insights to stay ahead of competitors more now than ever before. Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens, at a specific place and/or time. 
 
 1. How has Starbucks expanded overseas?
       - What are the top 15 countries with the most Starbucks stores?
