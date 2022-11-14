@@ -12,7 +12,7 @@
 ---
 
 ### Inspiration: Geospatial Analysis is on the rise! 
-Businesses are utilizing data-driven insights to stay ahead of competitors more now than ever before. Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens, at a specific place and/or time. 
+Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens, at a specific place and/or time. Companies are using geospatial data for site selection of new stores, market analysis, locating real-time hotspots, and even for suppy-chain optimization and fraud detection. 
 
 1. How has Starbucks expanded overseas?
       - What are the top 15 countries with the most Starbucks stores?
