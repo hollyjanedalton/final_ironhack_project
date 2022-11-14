@@ -23,8 +23,8 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 
 ---
 
-#### Data: 16 location features of over 28,000 Starbucks Locations
-##### Here's a quick look at the raw dataset 
+### Data: 16 location features of over 28,000 Starbucks Locations
+#### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
 
 #### I eliminated many of the features and focused my analysis on: 
