@@ -7,8 +7,6 @@
 
 [Click for Kaggle dataset](https://www.kaggle.com/datasets/kukuroo3/starbucks-locations-worldwide-2021-version)
 
-[Click for World population data](https://worldpopulationreview.com/countries)
-
 ---
 
 ### Inspiration: Geospatial Analysis is on the rise! 
