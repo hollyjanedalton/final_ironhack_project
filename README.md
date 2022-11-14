@@ -23,9 +23,13 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 
 ---
 
-### Findings
-#### What are the top 15 countries with the most Starbucks stores?
+### Main Findings
+#### 1. What are the top 15 countries with the most Starbucks stores?
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_count.png)
+
+#### 2. Where in the world do the earliest Starbucks locations open, and at what time? (Excluding licensed stores, such as those inside hospitals, train stations, airports, etc.)
+Answer:  In the U.S. there are 38 company-owned Starbucks coffeehouses that open at 3:30AM! See map below. 
+![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/earliest_starbucks.png)
 
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
