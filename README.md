@@ -27,9 +27,9 @@
 #### I eliminated many of the features and focused my analysis on: 
 - **Country** 
 - **City**
-- **Ownership type**: Company owned, Licensed, Joint Venture or Franchise
+- **Ownership type** (Company owned, Licensed, Joint Venture or Franchise)
 - **Hours of operation of the store** 
-- **Latitude and Longitude**: Exact latitude up to 6 decimal points of the store
+- **Latitude and Longitude** (Accurate up to 6 decimal points) 
 
 #### I later web scraped and added to the data:
 - 2021 Country population
