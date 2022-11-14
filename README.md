@@ -21,12 +21,9 @@
 
 
 #### Data: 16 location features of over 28,000 Starbucks Locations:
-<img
-src=“data_photo”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
+<img src="./data_photo.png">
+
 
 [alt text](https://github.com/[hollyjanedalton]/[final_ironhack_project]/[data_photo.png])
 
