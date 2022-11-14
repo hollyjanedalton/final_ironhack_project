@@ -23,6 +23,10 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 
 ---
 
+### Findings
+#### What are the top 15 countries with the most Starbucks stores?
+![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_count.png)
+
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
@@ -40,7 +44,7 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 - Country population density (km²)
 
 ---
-#### Process
+### Process
 1. Import Starbucks dataset from Kaggle to python and complete exploratory data analysis
 2. Data cleaning: 
       - Handle NaNs, duplicates and empty cells, outliers
