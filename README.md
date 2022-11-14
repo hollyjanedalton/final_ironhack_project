@@ -8,7 +8,7 @@
 [Click for Kaggle dataset](https://www.kaggle.com/datasets/kukuroo3/starbucks-locations-worldwide-2021-version)
 
 [Click for World population data](https://worldpopulationreview.com/countries)
-
+---
 
 ### Objective: Use web scraped Starbucks store location data and population data to answer 3 questions:
 
