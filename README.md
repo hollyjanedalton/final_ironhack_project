@@ -25,11 +25,11 @@
 <img src="./small_data_photo.png">
 
 #### I eliminated many of the features and focused my analysis on: 
-- **Country** 
-- **City**
-- **Ownership type** (Company owned, Licensed, Joint Venture or Franchise)
-- **Hours of operation** 
-- **Latitude and Longitude** (Accurate up to 6 decimal points) 
+- Country 
+- City
+- Ownership type (Company owned, Licensed, Joint Venture or Franchise)
+- Hours of operation 
+- Latitude and Longitude (Accurate up to 6 decimal points) 
 
 #### I later web scraped and added to the data:
 - 2021 Country population
