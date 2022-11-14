@@ -28,7 +28,7 @@
 - **Country** 
 - **City**
 - **Ownership type** (Company owned, Licensed, Joint Venture or Franchise)
-- **Hours of operation of the store** 
+- **Hours of operation** 
 - **Latitude and Longitude** (Accurate up to 6 decimal points) 
 
 #### I later web scraped and added to the data:
