@@ -22,10 +22,9 @@
 
 #### Data: 16 location features of over 28,000 Starbucks Locations:
 
-<img src="./data_photo.png">
-
-
-[alt text](https://github.com/[hollyjanedalton]/[final_ironhack_project]/[data_photo.png])
+<img src="./data_photo.png" raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”>
 
 - **Store Number**: A sequential number assigned to each store.
 - **Country Code**: 2-letter code indicating in which country the store is located 
