@@ -12,17 +12,17 @@
 ---
 
 ### Inspiration: Geospatial Analysis is on the rise! 
-Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens, at a specific place and/or time. Companies are using geospatial data for site selection of new stores, market analysis, locating real-time hotspots, and even for suppy-chain optimization and fraud detection. 
+Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens, at a specific place and/or time. Companies are using geospatial data for site selection of new stores, market analysis, locating real-time hotspots, and even for suppy-chain optimization and fraud detection. Using Starbucks location data, I answer a few strategic business questions with my analysis:
 
 1. How has Starbucks expanded overseas?
       - What are the top 15 countries with the most Starbucks stores?
       - What are the top countries with the most Starbucks stores, per capita?
       - What are the top countries with highest density of Starbucks stores, by area?
 2. Where in the world do the earliest Starbucks locations open, and at what time?
-3. What two Starbucks locations are the closest in proximity to one another?
+3. Where in the world are the two Starbucks locations closest in proximity to one another?
 
 #### Data: 16 location features of over 28,000 Starbucks Locations
-##### Here's a quick look at the uncleaned dataset 
+##### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
 
 #### I eliminated many of the features and focused my analysis on: 
@@ -36,9 +36,7 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 - 2021 Country population
 - Country area
 - Country population density (km²)
-- Count of Starbucks stores by country
-- Starbucks store density (km²)
-- Starbucks per capita
+
 ---
 #### Process
 1. Import Starbucks dataset from Kaggle to python and complete exploratory data analysis
