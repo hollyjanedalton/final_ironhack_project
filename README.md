@@ -28,8 +28,13 @@ Geospatial data analysis goes beyond determining not just what happens, but also
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_count.png)
 
 #### 2. Where in the world do the earliest Starbucks locations open, and at what time? (Excluding licensed stores, such as those inside hospitals, train stations, airports, etc.)
-Answer:  In the U.S. there are 38 company-owned Starbucks coffeehouses that open at 3:30AM! See map below. 
+Answer:  In the U.S. there are 38 company-owned Starbucks coffeehouses that open at 3:30 AM! 
+In the map below, green dots represent stores that open at 3:30 AM. 
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/earliest_starbucks.png)
+
+#### 3. Where in the world are the two Starbucks locations closest in proximity to one another?
+Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 80 meters apart, or less than a 2-minute walk! 
+![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/two_closest_cafes.png)
 
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
