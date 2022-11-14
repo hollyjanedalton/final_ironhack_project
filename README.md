@@ -22,8 +22,15 @@
 
 #### Data: 16 location features of over 28,000 Starbucks Locations
 ##### Here's a quick look at the uncleaned dataset 
-
 <img src="./small_data_photo.png">
+
+#### I eliminated many of the features and focused my analysis on: 
+- **Country Code**: 2-letter code indicating in which country the store is located 
+- **Ownership type**: Company owned, Licensed, Joint Venture or Franchise
+- **Schedule**: Hours of operation of the store
+- **Latitude**: Exact latitude up to 6 decimal points of the store
+- **Longitude**: Exact longitude up to 6 decimal points of the store
+- **City**: The city in which the Starbucks store is located
 
 
 #### I later web scraped and added to the data:
