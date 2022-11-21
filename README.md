@@ -9,7 +9,7 @@
 
 ---
 
-### Background: Geospatial Analysis is on the rise! 
+### Background: Location Intelligence is on the rise! 
 Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens. Companies are using geospatial data for site selection of new stores, marketing analysis, locating real-time hotspots, and even for fraud detection. Using Starbucks location data, I answer a few strategic business questions:
 
 1. How has Starbucks expanded overseas?
