@@ -12,11 +12,11 @@
 ### Background: Location Intelligence is on the rise! 
 Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens. Companies are using geospatial data for site selection of new stores, marketing analysis, locating real-time hotspots, and even for fraud detection. Using Starbucks location data, I answer a few strategic business questions:
 
-1. How has Starbucks expanded overseas?
-      - What are the top 15 countries with the most Starbucks stores?
-      - What are the top countries with the most Starbucks stores, per capita?
-      - What are the top countries with highest density of Starbucks stores, by area?
-2. Where in the world do the earliest Starbucks locations open, and at what time?
+1. How are Starbucks locations spread overseas?
+      - What are the top 15 countries with the most Starbucks coffeehouses?
+      - What are the top countries with the most Starbucks coffeehouses, per capita?
+      - What are the top countries with highest density of Starbucks coffeehouses, by area?
+2. Where in the world do the earliest Starbucks coffeehouses open, and at what time?
 3. Where in the world are the two Starbucks locations closest in proximity to one another?
 
 ---
