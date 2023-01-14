@@ -32,7 +32,9 @@ Using Starbucks location data with webscraped global population data, I answer t
 
 
 #### 2. Where in the world do the earliest Starbucks locations open, and at what time? (Excluding licensed stores, such as those inside hospitals, train stations, airports, etc.)
-In the U.S. there are 38 company-owned Starbucks stores that open at 3:30 AM! 
+
+Answer: 38 Starbucks stores open at 3:30 AM in the US
+
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/earliest_starbucks.png)
 **In the map above, green dots represent stores that open at 3:30 AM. 
 
