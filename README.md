@@ -15,15 +15,14 @@ I couldn't help but notice when I lived in Australia, South Africa, and Spain, t
 Whenever my mom came to visit, one of her only requests was that wherever we stayed, there needed to be a Starbucks nearby (a true Starbucks fanatic). It was no easy feat finding an Airbnb/Hotel within walking distance to a Starbucks everytime, so, I had to wonder-- 
 #### Are Americans really Starbucks #1 Fans? Where else in the world is Starbucks as popular as it is in the US?
 
-### Questions:
-Using Starbucks location data integrated with global population data, I answer these questions: 
+---
 
-1. How are Starbucks locations spread overseas?
-      - What countries have the most Starbucks coffeehouses?
-      - What countries have the most Starbucks coffeehouses, per capita?
-      - What countries have the highest density of Starbucks coffeehouses, by area?
-2. Where in the world does Starbucks open the earliest, and at what time?
-3. Where in the world are the two Starbucks locations closest in proximity to one another?
+### Questions:
+Using Starbucks location data with webscraped global population data, I answer these questions: 
+
+1. What countries have the most Starbucks cafes (by count), per capita, and by area (density)?
+3. Where in the world does Starbucks open the earliest, and at what time?
+4. Where are the two Starbucks locations that are closest to each another?
 
 ---
 
