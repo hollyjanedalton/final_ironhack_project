@@ -50,6 +50,9 @@ Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 8
 2. The U.S. is the ONLY country that has Starbucks coffeehouses opening at 3:30AM every morning. 
 3. The 2 closest Starbucks in the world are NOT in the US, but in Jakarta, Indonesia (less than 80 meters apart) 
 
+## So, Are US Coffee Drinkers Really Starbucks' #1 Fans?
+### YES, but countries that are densely populated and geographically small and modern economies with relatively high GDP per capita (Singapore, Kuwait, South Korea, Hong Kong, etc. ) are also big Starbucks fans. Countries in regions of the world like Europe, Africa, and South America in general do not have Starbucks-crazed cultures. 
+
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
