@@ -16,13 +16,13 @@ Whenever my mom came to visit, one of her only requests was that wherever we sta
 #### Are Americans really Starbucks #1 Fans? Where else in the world is Starbucks as popular as it is in the US?
 
 ### Questions:
-Using Starbucks location data integrated with global population data, I try to answer the question-- Are Americans really Starbucks #1 Fans? 
+Using Starbucks location data integrated with global population data, I answer these questions: 
 
 1. How are Starbucks locations spread overseas?
-      - What are the top 15 countries with the most Starbucks coffeehouses?
-      - What are the top countries with the most Starbucks coffeehouses, per capita?
-      - What are the top countries with highest density of Starbucks coffeehouses, by area?
-2. Where in the world do the earliest Starbucks coffeehouses open, and at what time?
+      - What countries have the most Starbucks coffeehouses?
+      - What countries have the most Starbucks coffeehouses, per capita?
+      - What countries have the highest density of Starbucks coffeehouses, by area?
+2. Where in the world does Starbucks open the earliest, and at what time?
 3. Where in the world are the two Starbucks locations closest in proximity to one another?
 
 ---
