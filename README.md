@@ -1,4 +1,4 @@
-## Mapping Starbucks locations with country population data
+## Are US Coffee Drinkers Really Starbucks' #1 Fans?
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_map.png)
 
 [Click for 9-minute recording of live presentation](https://ironhack.zoom.us/rec/play/z_KuzP88l79dzVBAtHaR-vPE4Xi4xUGUU-C3D948G81Z7jHR7GCBa8oip2yDNDrNwbnBrP9AWwVZ6sM9.WElypAcnuo2-6udI?startTime=1660305720000&_x_zm_rtaid=v-1r2qOaSt-VQG_GldUWIA.1660487182977.ee234b4949979eb90f4b2d2092f0085f&_x_zm_rhtaid=21)
@@ -9,8 +9,13 @@
 
 ---
 
-### Background: Location Intelligence is on the rise! 
-Geospatial data analysis goes beyond determining not just what happens, but also where and why it happens. Companies are using geospatial data for site selection of new stores, marketing analysis, locating real-time hotspots, and even for fraud detection. Using Starbucks location data, I answer a few strategic business questions:
+### Background:
+I couldn't help but notice when I lived in Australia, South Africa, and Spain, that although people drink coffee everyday like many people in the US do, Starbucks coffeehouses were sparse, and just plain unpopular with locals. 
+
+Whenever my mom came to visit, one of her only requests was that wherever we stayed, there needed to be a Starbucks nearby (a true Starbucks fanatic). It was no easy feat finding an Airbnb/Hotel within walking distance to a Starbucks everytime, so, I had to wonder-- Are Americans really Starbucks #1 Fans? Where else in the world is Starbucks as popular as it is in the US?
+
+Questions
+Using Starbucks location data integrated with global population data, I try to answer the question-- Are Americans really Starbucks #1 Fans? 
 
 1. How are Starbucks locations spread overseas?
       - What are the top 15 countries with the most Starbucks coffeehouses?
