@@ -1,4 +1,4 @@
-## Are US Coffee Drinkers Really Starbucks' #1 Fans?
+## Are North Americans Really Starbucks' #1 Fans?
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_map.png)
 
 [Click for 9-minute recording of live presentation](https://ironhack.zoom.us/rec/play/z_KuzP88l79dzVBAtHaR-vPE4Xi4xUGUU-C3D948G81Z7jHR7GCBa8oip2yDNDrNwbnBrP9AWwVZ6sM9.WElypAcnuo2-6udI?startTime=1660305720000&_x_zm_rtaid=v-1r2qOaSt-VQG_GldUWIA.1660487182977.ee234b4949979eb90f4b2d2092f0085f&_x_zm_rhtaid=21)
@@ -30,6 +30,7 @@ Using Starbucks location data with webscraped global population data, I answer t
 #### 1. What are the top 15 countries with the most Starbucks stores?
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_count.png)
 
+Answer: US takes the lead by far, and Canada and Mexico, the other two North American countries, are also in the top 5. 
 
 #### 2. Where in the world do the earliest Starbucks locations open, and at what time? (Excluding licensed stores, such as those inside hospitals, train stations, airports, etc.)
 
@@ -50,8 +51,12 @@ Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 8
 2. The U.S. is the ONLY country that has Starbucks coffeehouses opening at 3:30AM every morning. 
 3. The 2 closest Starbucks in the world are NOT in the US, but in Jakarta, Indonesia (less than 80 meters apart) 
 
-## So, Are US Coffee Drinkers Really Starbucks' #1 Fans?
-### YES, but countries that are densely populated and geographically small and modern economies with relatively high GDP per capita (Singapore, Kuwait, South Korea, Hong Kong, etc. ) are also big Starbucks fans. Countries in regions of the world like Europe, Africa, and South America in general do not have Starbucks-crazed cultures. 
+## So, Are North Americans Really Starbucks' #1 Fans?
+### YES, but countries that are densely populated, geographically small and have modern economies with relatively high GDP per capita (Singapore, Kuwait, South Korea, Hong Kong, etc. ) are also big Starbucks fans. 
+
+Countries in regions of the world like Europe, Africa, and South America in general do not have Starbucks-crazed cultures.
+
+---
 
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
