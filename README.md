@@ -44,6 +44,12 @@ Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 8
 
 ---
 
+### Conclusions
+
+1. There are WAY more Starbucks cafes in the U.S. than in any other country, by far. But, if we take into consideration population size, Kuwait, Canada, the Bahamas, and South Korea are not far behind. And, if we consider country geographical size, Singapore actually has a higher density of Starbucks cafes than the U.S, for every 100 km squared.
+2. The U.S. is the ONLY country that has Starbucks coffeehouses opening at 3:30AM every morning. 
+3. The 2 closest Starbucks in the world are NOT in the US, but in Jakarta, Indonesia (less than 80 meters apart) 
+
 ### Data: 16 location features of over 28,000 Starbucks Locations
 #### Here's a quick look at the raw dataset 
 <img src="./small_data_photo.png">
