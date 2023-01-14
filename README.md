@@ -30,7 +30,7 @@ Using Starbucks location data with webscraped global population data, I answer t
 #### 1. What are the top 15 countries with the most Starbucks stores?
 ![](https://github.com/hollyjanedalton/final_ironhack_project/blob/main/starbucks_count.png)
 
-Answer: US takes the lead by far, and Canada and Mexico, the other two North American countries, are also in the top 5. 
+Answer: US takes the lead by far, and Canada and Mexico, the other two North American countries, are also in the top 7. 
 
 #### 2. Where in the world do the earliest Starbucks locations open, and at what time? (Excluding licensed stores, such as those inside hospitals, train stations, airports, etc.)
 
