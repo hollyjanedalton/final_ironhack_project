@@ -56,6 +56,8 @@ Answer: In Jakarta, Indonesia 🇮🇩 there are two stores that are less than 8
 
 Countries in regions of the world like Europe, Africa, and South America in general do not have Starbucks-crazed cultures.
 
+☕️ In conclusion, I better choose a country like Singapore, South Korea, or Hong Kong, and avoid Europe, Africa, and South America altogether next time I live abroad, so that my mom can easily get her Starbucks fix. Love you, Mom!
+
 ---
 
 ### Data: 16 location features of over 28,000 Starbucks Locations
