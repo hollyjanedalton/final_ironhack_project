@@ -13,7 +13,7 @@
 I couldn't help but notice when I lived/traveled abroad for several years between Australia, Europe, and South Africa, that although people drink coffee everyday like many people in the US do, Starbucks coffeehouses were sparse, and just plain unpopular with locals. 
 
 When my mom visited, one of her only requests was that wherever we stayed, there needed to be a Starbucks nearby (a true Starbucks fanatic). It was no easy feat finding an Airbnb/Hotel within walking distance to a Starbucks everytime, so, I had to wonder-- 
-#### Are North Americans really Starbucks #1 Fans? Where else in the world is Starbucks as popular as it is in North America?
+#### Are North Americans really Starbucks' #1 Fans? Where else in the world is Starbucks as popular as it is in North America?
 
 ---
 
