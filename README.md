@@ -21,8 +21,10 @@ When my mom visited, one of her only requests was that wherever we stayed, there
 Using Starbucks location data with webscraped global population data, I answer these questions: 
 
 1. What countries have the most Starbucks cafes (by count), per capita, and by area (density)?
-3. Where in the world does Starbucks open the earliest, and at what time?
+3. Where in the world does Starbucks open the earliest in the morning?
 4. Where are the two Starbucks locations that are closest to each another?
+
+If my hypothesis is correct, then the answer to all these questions should put USA at the top of each list, but let's see what I actually discovered...
 
 ---
 
